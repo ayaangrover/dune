@@ -20,3 +20,14 @@ using pcba for the diodes + on/off switch + battery connector
 
 going to go and start the pcb now! using scottokeebs' library  
 
+## 10/4/2025 - research + schematic  
+
+spent a ton of time doing research to cut down the cost, but i only got a few bucks down. absolute waste of time...
+
+then i spent time trying to find a nice!nano v2 footprint which includes the B+ and B- pins but couldnt. 
+
+so i just did the switches and diodes. will do the mcu + connections once i get a symbol+footprint that work.
+
+![CleanShot 2025-10-03 at 21.41.45@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3LCJwdXIiOiJibG9iX2lkIn19--8eaf0aac27a26864aaecfd3c6fcfab6a4729487c/CleanShot%202025-10-03%20at%2021.41.45%402x.png)
+  
+
