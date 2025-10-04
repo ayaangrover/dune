@@ -20,7 +20,7 @@ using pcba for the diodes + on/off switch + battery connector
 
 going to go and start the pcb now! using scottokeebs' library  
 
-## 10/4/2025 - research + schematic  
+## 10/4/2025 4 AM - research + schematic  
 
 spent a ton of time doing research to cut down the cost, but i only got a few bucks down. absolute waste of time...
 
@@ -30,4 +30,13 @@ so i just did the switches and diodes. will do the mcu + connections once i get 
 
 ![CleanShot 2025-10-03 at 21.41.45@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3LCJwdXIiOiJibG9iX2lkIn19--8eaf0aac27a26864aaecfd3c6fcfab6a4729487c/CleanShot%202025-10-03%20at%2021.41.45%402x.png)
   
+
+## 10/4/2025 9 PM - Finished the schematic  
+
+![CleanShot 2025-10-04 at 14.14.11.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDIwLCJwdXIiOiJibG9iX2lkIn19--8682ed60050598894b618a13b11462d573148b61/CleanShot%202025-10-04%20at%2014.14.11.png)
+
+finished schematic and dumped all the parts into the pcb editor and sent it to jlc for a price test, got a min of $50 AFTER a $15 discount...so now i'm $12 over the budget. 
+
+
+anyway, im going to do the layout of the pcb and then routing, and also see where else i can save money  
 
