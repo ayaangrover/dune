@@ -40,7 +40,7 @@ finished schematic and dumped all the parts into the pcb editor and sent it to j
 
 anyway, im going to do the layout of the pcb and then routing, and also see where else i can save money  
 
-## 10/5/2025 - Did the PCB Layout + 3D Models  
+## 10/5/2025 2 AM - Did the PCB Layout + 3D Models  
 
 ![CleanShot 2025-10-04 at 19.20.09.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDY4LCJwdXIiOiJibG9iX2lkIn19--2f2ecb2a25e24b893bb9f9ddfae153bee5c0d392/CleanShot%202025-10-04%20at%2019.20.09.png)
 
@@ -55,4 +55,16 @@ now i have to do the routing. might redo the layout if needed.
 ![CleanShot 2025-10-04 at 19.48.43.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDcxLCJwdXIiOiJibG9iX2lkIn19--86e0a6aa62a67c637dc85aaf458ce875317e622c/CleanShot%202025-10-04%20at%2019.48.43.png)
 
   
+
+## 10/5/2025 5 AM - Routed half of the pcb and made a blueprint-style banner!  
+
+![Dune.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDk2LCJwdXIiOiJibG9iX2lkIn19--e9f7ebbc0e50f5891a869be9752b9feec0daf87a/Dune.png)
+
+
+routed the left half of the keyboard!
+
+
+also made a blueprint style banner thingy(inspired by kieran, followed his instructions to make it!)
+
+i think it looks pretty cool, i imported the .step from kicad to onshape, made a drawing, exported as an svg, and fixed it up in figma. i might add some branding to the front or smth as soon as i get around to making a good branding  
 
