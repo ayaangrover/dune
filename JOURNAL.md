@@ -40,3 +40,19 @@ finished schematic and dumped all the parts into the pcb editor and sent it to j
 
 anyway, im going to do the layout of the pcb and then routing, and also see where else i can save money  
 
+## 10/5/2025 - Did the PCB Layout + 3D Models  
+
+![CleanShot 2025-10-04 at 19.20.09.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDY4LCJwdXIiOiJibG9iX2lkIn19--2f2ecb2a25e24b893bb9f9ddfae153bee5c0d392/CleanShot%202025-10-04%20at%2019.20.09.png)
+
+I FINISHED THE LAYOUTTTT!!! that took way too long but i eventually got smth i like, heavily inspired by the corne but it looks great to me. 
+
+oh i also did all the 3d models, that took a while to position for each one
+
+i put most of the stuff on the back so i can get it pcbaed if it fits in my budget
+
+now i have to do the routing. might redo the layout if needed.
+
+![CleanShot 2025-10-04 at 19.48.43.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDcxLCJwdXIiOiJibG9iX2lkIn19--86e0a6aa62a67c637dc85aaf458ce875317e622c/CleanShot%202025-10-04%20at%2019.48.43.png)
+
+  
+
