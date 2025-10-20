@@ -6,11 +6,7 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Dune**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/109).
-
-
-## 10/3/2025 - Planned the project + budget  
+## 10/3/2025 4 PM - Planned the project + budget  
 
 ![CleanShot 2025-10-03 at 16.13.06@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ5LCJwdXIiOiJibG9iX2lkIn19--467912c7efaa3c3e1b62abae173f36995f9b51dd/CleanShot%202025-10-03%20at%2016.13.06%402x.png)
 
@@ -20,7 +16,7 @@ using pcba for the diodes + on/off switch + battery connector
 
 going to go and start the pcb now! using scottokeebs' library  
 
-## 10/4/2025 4 AM - research + schematic  
+## 10/3/2025 9 PM - research + schematic  
 
 spent a ton of time doing research to cut down the cost, but i only got a few bucks down. absolute waste of time...
 
@@ -31,7 +27,7 @@ so i just did the switches and diodes. will do the mcu + connections once i get 
 ![CleanShot 2025-10-03 at 21.41.45@2x.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3LCJwdXIiOiJibG9iX2lkIn19--8eaf0aac27a26864aaecfd3c6fcfab6a4729487c/CleanShot%202025-10-03%20at%2021.41.45%402x.png)
   
 
-## 10/4/2025 9 PM - Finished the schematic  
+## 10/4/2025 2 PM - Finished the schematic  
 
 ![CleanShot 2025-10-04 at 14.14.11.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDIwLCJwdXIiOiJibG9iX2lkIn19--8682ed60050598894b618a13b11462d573148b61/CleanShot%202025-10-04%20at%2014.14.11.png)
 
@@ -40,7 +36,7 @@ finished schematic and dumped all the parts into the pcb editor and sent it to j
 
 anyway, im going to do the layout of the pcb and then routing, and also see where else i can save money  
 
-## 10/5/2025 2 AM - Did the PCB Layout + 3D Models  
+## 10/4/2025 7 PM - Did the PCB Layout + 3D Models  
 
 ![CleanShot 2025-10-04 at 19.20.09.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDY4LCJwdXIiOiJibG9iX2lkIn19--2f2ecb2a25e24b893bb9f9ddfae153bee5c0d392/CleanShot%202025-10-04%20at%2019.20.09.png)
 
@@ -56,7 +52,7 @@ now i have to do the routing. might redo the layout if needed.
 
   
 
-## 10/5/2025 5 AM - Routed half of the pcb and made a blueprint-style banner!  
+## 10/4/2025 10 PM - Routed half of the pcb and made a blueprint-style banner!  
 
 ![Dune.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDk2LCJwdXIiOiJibG9iX2lkIn19--e9f7ebbc0e50f5891a869be9752b9feec0daf87a/Dune.png)
 
@@ -67,4 +63,14 @@ routed the left half of the keyboard!
 also made a blueprint style banner thingy(inspired by kieran, followed his instructions to make it!)
 
 i think it looks pretty cool, i imported the .step from kicad to onshape, made a drawing, exported as an svg, and fixed it up in figma. i might add some branding to the front or smth as soon as i get around to making a good branding  
+
+## 10/20/2025 - worked on budgeting + edited pcb  
+
+did research, knocked the price down to $100. covering $15 through my school and printing the keycaps.
+
+took almost an hour of researching and asking to get the 15 accepted through maker club though...on the other hand im finally at $100 so i might get approved, only have the case left now!
+
+![SCR-20251020-mlre.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc28fb84b14aa3a38c9eebb19de5aaceed6defc0/SCR-20251020-mlre.png)
+
+also realigned some parts w/ issues in the pcb for a bit, it wasnt symmetrical and didnt match my finger length very well so i restaggered them. that part was pretty fun  
 
