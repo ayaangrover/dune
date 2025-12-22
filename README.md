@@ -1,10 +1,6 @@
 # dune
 a wireless low profile hotswap split keyboard
 
-Multiple angles of the full 3D model
-Wiring diagram (if applicable)
-
-
 ## What it is
 Dune is a low profile hotswap wireless split keyboard with ZMK support. 
 
@@ -22,6 +18,11 @@ Case models are in /Case, case + pcb and just pcb models are both in /Dune.
 
 <img width="1348" height="824" alt="CleanShot 2025-12-22 at 09 50 39@2x" src="https://github.com/user-attachments/assets/58362a93-fce8-4c85-a67e-86c53f7aa7a8" />
 
+<img width="750" height="540" alt="CleanShot 2025-12-22 at 10 57 10@2x" src="https://github.com/user-attachments/assets/0f4c7e53-75c4-4a09-8196-6a3cc8b6af54" />
+
+<img width="888" height="404" alt="CleanShot 2025-12-22 at 10 56 57@2x" src="https://github.com/user-attachments/assets/cea8c10c-b4da-4a71-b459-73e20ada8345" />
+
+<img width="1552" height="1210" alt="CleanShot 2025-12-22 at 10 58 08@2x" src="https://github.com/user-attachments/assets/7774b154-3042-4a96-9750-bb08b1d4ca0e" />
 
 ## Bom
 
