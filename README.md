@@ -1,11 +1,8 @@
 # dune
 a wireless low profile hotswap split keyboard
-A short description of what your project is
-A couple sentences on why you made the project
+
 Multiple angles of the full 3D model
-Screenshot of PCB (if applicable)
 Wiring diagram (if applicable)
-BOM in table format at the end of the README
 
 
 ## What it is
@@ -13,6 +10,9 @@ Dune is a low profile hotswap wireless split keyboard with ZMK support.
 
 ## Why I made it
 I made it because I want to do my homework in my notebook but also be able to type and use my mouse. this way i can place my notebook between the two halves of my keyboard.
+
+## Models
+Case models are in /Case, case + pcb and just pcb models are both in /Dune.
 
 ## Images
 
@@ -25,11 +25,12 @@ I made it because I want to do my homework in my notebook but also be able to ty
 
 ## Bom
 
+I'm printing [these](https://makerworld.com/en/models/2011079-low-profile-choc-v2-17mm-keycap?from=search#profileId-2166451) keycaps for the keyboard.
 
 | Item | Description | Cost (USD) | Link |
 |------|-------------|------------|------|
 | Switches | Kailh Choc Round Brown 45g (Low-Profile Tactile) | $20.18 | https://mechanicalkeyboards.com/products/kailh-choc-round-brown-45g-low-profile-tactile?variant=50919348699436 |
-| Keycaps | 3D printed | $0.00 | — |
+| Keycaps | 3D printed | $0.00 | https://makerworld.com/en/models/2011079-low-profile-choc-v2-17mm-keycap?from=search#profileId-2166451 |
 | Sockets | Kailh Choc sockets | $8.38 | https://www.aliexpress.us/item/3256806931242093.html |
 | MCU | nRF52840 | $8.08 | https://www.aliexpress.us/item/3256805848952479.html |
 | Batteries | Li-Po batteries | $4.16 | https://www.aliexpress.us/item/3256807087483508.html |
