@@ -38,6 +38,6 @@ I'm printing [these](https://makerworld.com/en/models/2011079-low-profile-choc-v
 | Keycaps | 3D printed | $0.00 | https://makerworld.com/en/models/2011079-low-profile-choc-v2-17mm-keycap?from=search#profileId-2166451 |
 | Sockets | Kailh Choc sockets | $8.38 | https://www.aliexpress.us/item/3256806931242093.html |
 | MCU | nRF52840 | $8.08 | https://www.aliexpress.us/item/3256805848952479.html |
-| Batteries | Li-Po batteries | $4.16 | https://www.aliexpress.us/item/3256807087483508.html |
+| Batteries | Li-Po batteries | $8.84 | https://www.aliexpress.us/item/3256807087483508.html |
 | PCB | Custom PCB fabrication | $57.58 | https://jlcpcb.com/ |
-| **Total** |  | **$100.25(tax)** |  |
+| **Total** |  | **$103.06(tax)** |  |
