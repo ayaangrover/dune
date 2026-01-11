@@ -12,6 +12,10 @@ Case models are in /Case, case + pcb and just pcb models are both in /Dune.
 
 ## Images
 
+<img width="480" height="328" alt="image" src="https://github.com/user-attachments/assets/b9637dc5-f225-4222-ad5e-2393327947bc" />
+
+<img width="720" height="444" alt="image" src="https://github.com/user-attachments/assets/3a31b1e4-38a6-4dab-8a9e-85eb2a6a5c81" />
+
 <img width="1346" height="882" alt="CleanShot 2025-12-22 at 09 49 57@2x" src="https://github.com/user-attachments/assets/05d2a2b6-5593-4bee-9122-c0d75848621c" />
 
 <img width="1384" height="882" alt="CleanShot 2025-12-22 at 09 50 12@2x" src="https://github.com/user-attachments/assets/11422a27-2470-4c68-869c-302d87dab8b9" />
